@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+# CFF 文件格式的版本号，当前使用的是 1.2.0 标准
+
+message: "If you use this book or its accompanying code, please cite it as follows."
+# 说明文字：如果你使用了本书或配套代码，请按以下格式引用。
+
+title: "Build A Large Language Model (From Scratch), Published by Manning, ISBN 978-1633437166"
+# 书名：《从零构建大语言模型》（英文原版由 Manning 出版社出版，ISBN 978-1633437166）
+
+abstract: "This book provides a comprehensive, step-by-step guide to implementing a ChatGPT-like large language model from scratch in PyTorch."
+# 摘要：本书提供了一份全面的、循序渐进的指南，教你用 PyTorch 从零实现一个类似 ChatGPT 的大语言模型。
+
+date-released: 2024-09-12
+# 发布日期：2024年9月12日
+
+authors:
+  - family-names: "Raschka"
+    given-names: "Sebastian"
+# 作者信息：姓氏 Raschka，名字 Sebastian（即本书作者塞巴斯蒂安·拉施卡）
+
+license: "Apache-2.0"
+# 开源协议：Apache 2.0 协议（允许商业使用、修改和分发，需保留版权声明）
+
+url: "https://www.manning.com/books/build-a-large-language-model-from-scratch"
+# 官方书籍页面地址
+
+repository-code: "https://github.com/rasbt/LLMs-from-scratch"
+# 配套代码的 GitHub 仓库地址
+
+keywords:
+  - large language models          # 大语言模型
+  - natural language processing    # 自然语言处理
+  - artificial intelligence        # 人工智能
+  - PyTorch                        # PyTorch 框架
+  - machine learning               # 机器学习
+  - deep learning                  # 深度学习

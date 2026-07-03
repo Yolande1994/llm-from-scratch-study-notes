@@ -1,0 +1,9 @@
+torch >= 2.0.1        # 所有章节都需要
+jupyterlab >= 4.0     # 所有章节都需要
+tiktoken >= 0.5.1     # 第2章；第4章；第5章
+matplotlib >= 3.7.1   # 第4章；第5章
+tensorflow >= 2.15.0  # 第5章
+tqdm >= 4.66.1        # 第5章；第7章
+numpy >= 1.25, < 2.0  # 是其他多个库的依赖项，例如 torch 和 pandas
+pandas >= 2.2.1       # 第6章
+psutil >= 5.9.5       # 第7章；作为 torch 的依赖项，已自动安装
