@@ -2,7 +2,7 @@
 
 ## 仓库说明
 本仓库为 Sebastian Raschka 著作 **《Build a Large Language Model From Scratch》**（中文译名《从零构建大模型》）的个人学习复现仓库。
-核心模型逻辑基于原书官方代码与社区中文汉化版本整理，仅用于个人学习沉淀与知识分享，不涉及任何商业用途。
+核心模型逻辑基于原书官方代码与社区中文汉化版本整理，仅用于个人学习沉淀与知识分享。
 
 - 原书官方代码仓库：[rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
 - 参考中文汉化版本：LLMs-from-scratch-CN
