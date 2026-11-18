@@ -1,4 +1,4 @@
-# llm-from-scratch-study-notes
+# llm-from-scratch-studynotes
 
 ## 仓库说明
 Sebastian Raschka 著作 **《Build a Large Language Model From Scratch》**（中文译名《从零构建大模型》）的个人学习记录仓库。
